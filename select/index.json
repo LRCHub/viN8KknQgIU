@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Be My Guest",
+  "base_artist": "Azari",
+  "createdAt": "2025-12-23T09:49:48.052694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be My Guest & the Judy Garland Theme / Dialogue With Judy Garland and Ethel Merman",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/01_Be_My_Guest_&_the_Judy_Garland_Theme___Dialogue_With_Judy_Garland_and_Ethel_Merm_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/02_Be_My_Guest_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be My Guest (dialogue with Judy Garland and Ethel Merman)",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/03_Be_My_Guest_(dialogue_with_Judy_Garland_and_Ethel_Merman)_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ukraine: Be My Guest",
+      "artist": "Гайтана",
+      "has_synced": false,
+      "path": "select/04_Ukraine__Be_My_Guest_Гайтана.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "Gaitana (Ukraine)",
+      "has_synced": false,
+      "path": "select/05_Be_My_Guest_Gaitana_(Ukraine).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You Want Blood (Be My Guest)",
+      "artist": "Red City Radio",
+      "has_synced": false,
+      "path": "select/06_If_You_Want_Blood_(Be_My_Guest)_Red_City_Radio.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "Kickback",
+      "has_synced": false,
+      "path": "select/07_Be_My_Guest_Kickback.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/08_Be_My_Guest_Azari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/09_Be_My_Guest_Azari.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be My Guest - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/10_Be_My_Guest_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Be My Guest (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/11_Be_My_Guest_(Russian_ver.)_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "WSTRN feat. Fireboy DML",
+      "has_synced": true,
+      "path": "select/12_Be_My_Guest_WSTRN_feat._Fireboy_DML.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "WSTRN",
+      "has_synced": true,
+      "path": "select/13_Be_My_Guest_WSTRN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "WSTRN & Fireboy DML",
+      "has_synced": true,
+      "path": "select/14_Be_My_Guest_WSTRN_&_Fireboy_DML.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Be My Guest",
+      "artist": "Trey Songz",
+      "has_synced": true,
+      "path": "select/15_Be_My_Guest_Trey_Songz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Be My Guest / Dialogue with Judy Garland and Ethel Merman",
+      "artist": "Barbra Streisand & Judy Garland",
+      "has_synced": true,
+      "path": "select/16_Be_My_Guest___Dialogue_with_Judy_Garland_and_Ethel_Merman_Barbra_Streisand_&_Judy_Garland.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Be My Guest (Eurovision 2012 - Ukraine)",
+      "artist": "Гайтана",
+      "has_synced": true,
+      "path": "select/17_Be_My_Guest_(Eurovision_2012_-_Ukraine)_Гайтана.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Be My Guest (Ukraine)",
+      "artist": "Гайтана (Gaitana)",
+      "has_synced": true,
+      "path": "select/18_Be_My_Guest_(Ukraine)_Гайтана_(Gaitana).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Be My Guest/Dialogue With Judy Garland & Ethel Merman",
+      "artist": "Barbra Streisand/Judy Garland/Ethel Merman",
+      "has_synced": true,
+      "path": "select/19_Be_My_Guest_Dialogue_With_Judy_Garland_&_Ethel_Merman_Barbra_Streisand_Judy_Garland_Ethel_Merman.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be My Guest",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Be_My_Guest_Azari.txt"
+    }
+  ]
+}
